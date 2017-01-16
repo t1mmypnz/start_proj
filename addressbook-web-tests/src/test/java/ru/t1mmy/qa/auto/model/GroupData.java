@@ -1,4 +1,4 @@
-package ru.t1mmy.qa.auto;
+package ru.t1mmy.qa.auto.model;
 
 public class GroupData {
     private final String name;
